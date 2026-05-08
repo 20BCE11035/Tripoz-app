@@ -1,0 +1,96 @@
+/* ======== GOOGLE FONTS & VARIABLES ======== */
+:root {
+    /* Fonts */
+    --font-primary: "Inter", sans-serif;
+    --font-heading: "Boldonse", sans-serif;
+
+    /* Colors */
+    --color-accent: #3d61fb;
+    --color-white: #ffffff;
+    --color-background: #ffffff;
+    --color-background-secondary: #f4f7fa;
+    --color-text-primary: #1a1a1a;
+    --color-text-secondary: #555;
+    --color-border: #e0e0e0;
+
+    /* Spacing & Sizing */
+    --navbar-height: 80px;
+    --container-width: 1140px;
+}
+
+/* ======== GLOBAL RESET & BASE STYLES ======== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font-primary);
+    background-color: var(--color-background);
+    color: var(--color-text-primary);
+    line-height: 1.6;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1 {
+    font-family: var(--font-heading);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* ======== HERO & NAVIGATION SECTION [START] ======== */
+
+/* ======== HERO & NAVIGATION SECTION [END] ======== */
+
+/* ======== POPULAR SECTION [START] ======== */
+
+/* ======== POPULAR SECTION [END] ======== */
+
+/* ======== PLACES SECTION [START] ======== */
+
+/* ======== PLACES SECTION [END] ======== */
+
+/* ======== TESTIMONIAL SECTION [START] ======== */
+
+/* ======== TESTIMONIAL SECTION [END] ======== */
+
+/* ======== FAQ SECTION [START] ======== */
+
+/* ======== FAQ SECTION [END] ======== */
+
+/* ======== APP DOWNLOAD SECTION [START] ======== */
+
+/* ======== APP DOWNLOAD SECTION [END] ======== */
+
+/* ======== FOOTER SECTION [START] ======== */
+
+/* ======== FOOTER SECTION [END] ======== */
+
+/* ======== DESTINATION PAGE STYLES [START] ======== */
+
+/* ======== DESTINATION PAGE STYLES [END] ======== */
+
+/* ======== RESPONSIVE [START] ======== */
+
+/* ======== RESPONSIVE [END] ======== */
+
+
+/* ======== 8. ANIMATION KEYFRAMES ======== */
+
+/* ======== 8. SKELETON LOADER (DESTINATION PAGE) ======== */
